@@ -1,4 +1,4 @@
-#Learn with LLM
+**Learn with LLM**
 
 This was a side project to explore whether you could create an alternative experience to Coursera, Udemy etc to create a personalized and interactive course content for users in real time using LLMs, rather than have a cookie cutter course material.
 
