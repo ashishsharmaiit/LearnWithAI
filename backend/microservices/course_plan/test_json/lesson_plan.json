@@ -1,0 +1,26 @@
+[
+    {
+        "lessonName": "Lesson 1: Introduction to TensorFlow",
+        "lessonTopics": "An overview of TensorFlow, its history, and its significance in the field of machine learning and computer vision. Understanding TensorFlow's ecosystem and how it supports deep learning and neural network projects."
+    },
+    {
+        "lessonName": "Lesson 2: TensorFlow's Place in Computer Vision",
+        "lessonTopics": "Exploring how TensorFlow is used in computer vision. Discussing various real-world applications of TensorFlow in image recognition, object detection, and more, to provide context and motivation."
+    },
+    {
+        "lessonName": "Lesson 3: Setting Up Your TensorFlow Environment",
+        "lessonTopics": "Step-by-step guide on setting up the TensorFlow environment on different platforms (Windows, macOS, Linux). Includes installation of necessary packages and verification of installation."
+    },
+    {
+        "lessonName": "Lesson 4: Your First TensorFlow Program",
+        "lessonTopics": "Creating a simple TensorFlow program to understand its basic structure and functionality. This lesson will cover the execution of a basic computational graph."
+    },
+    {
+        "lessonName": "Lesson 5: Introduction to Computer Vision",
+        "lessonTopics": "Understanding the basics of computer vision, its challenges, and how it's used to interpret the visual world. Introduction to common computer vision tasks and problems."
+    },
+    {
+        "lessonName": "Lesson 6: TensorFlow for Basic Image Processing",
+        "lessonTopics": "Using TensorFlow for basic image processing tasks. This includes reading and displaying images, basic manipulations like resizing and cropping, and understanding image data formats."
+    }
+]

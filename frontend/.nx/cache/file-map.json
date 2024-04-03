@@ -1,0 +1,222 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.2.8",
+  "deps": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.5",
+    "@mui/material": "^5.15.5",
+    "@mui/styled-engine-sc": "^6.0.0-alpha.12",
+    "@reduxjs/toolkit": "^2.0.1",
+    "axios": "^1.6.5",
+    "bootstrap": "^5.3.2",
+    "firebase-functions": "^4.6.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.9.2",
+    "react-dom": "^18.2.0",
+    "react-markdown": "^9.0.1",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.21.1",
+    "react-toastify": "^10.0.3",
+    "styled-components": "^6.1.8",
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "@typescript-eslint/eslint-plugin": "^6.14.0",
+    "@typescript-eslint/parser": "^6.14.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint": "^8.55.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.5",
+    "nx": "17.2.8",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.8"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": "src/pages/LessonPage/LessonPage.tsx",
+        "hash": "1685870570847929737"
+      },
+      {
+        "file": "src/main.tsx",
+        "hash": "14271680116926779039"
+      },
+      {
+        "file": ".nx/cache/d/server-process.json",
+        "hash": "10105354891256362230"
+      },
+      {
+        "file": "src/pages/LoginPage/LoginPage.tsx",
+        "hash": "6507277759413842063"
+      }
+    ],
+    "projectFileMap": {
+      "react-app": [
+        {
+          "file": ".gitignore",
+          "hash": "8616861032237610898"
+        },
+        {
+          "file": "README.md",
+          "hash": "4055606894390288348"
+        },
+        {
+          "file": "coi-serviceworker.js",
+          "hash": "6361566718861621070"
+        },
+        {
+          "file": "index.html",
+          "hash": "15024610154207661578"
+        },
+        {
+          "file": "nx.json",
+          "hash": "5215402242983872347"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "17969128067727323364"
+        },
+        {
+          "file": "package.json",
+          "hash": "13993396817483485433",
+          "deps": [
+            "npm:@emotion/react",
+            "npm:@emotion/styled",
+            "npm:@mui/icons-material",
+            "npm:@mui/material",
+            "npm:@mui/styled-engine-sc",
+            "npm:@reduxjs/toolkit",
+            "npm:axios",
+            "npm:bootstrap",
+            "npm:firebase-functions",
+            "npm:react",
+            "npm:react-bootstrap",
+            "npm:react-dom",
+            "npm:react-markdown",
+            "npm:react-redux",
+            "npm:react-router-dom",
+            "npm:react-toastify",
+            "npm:styled-components",
+            "npm:@types/react",
+            "npm:@types/react-dom",
+            "npm:@typescript-eslint/eslint-plugin",
+            "npm:@typescript-eslint/parser",
+            "npm:@vitejs/plugin-react",
+            "npm:eslint",
+            "npm:eslint-plugin-react-hooks",
+            "npm:eslint-plugin-react-refresh",
+            "npm:nx",
+            "npm:typescript",
+            "npm:vite"
+          ]
+        },
+        {
+          "file": "src/actions/CourseActions.tsx",
+          "hash": "16109802107762977010"
+        },
+        {
+          "file": "src/actions/LoginActions.tsx",
+          "hash": "10852787219081626272"
+        },
+        {
+          "file": "src/components/AddButton/AddButton.tsx",
+          "hash": "3054717553555033340"
+        },
+        {
+          "file": "src/components/BouncingDotsLoader/BouncingDotsLoader.css",
+          "hash": "2414227769367927906"
+        },
+        {
+          "file": "src/components/BouncingDotsLoader/BouncingDotsLoader.tsx",
+          "hash": "3955185884299496289"
+        },
+        {
+          "file": "src/components/CloseButton/CloseButton.tsx",
+          "hash": "5786385811974061926"
+        },
+        {
+          "file": "src/components/DynamicList/DynamicList.tsx",
+          "hash": "18256181712373877886"
+        },
+        {
+          "file": "src/components/MenuAppBar/MenuAppBar.tsx",
+          "hash": "11061461983274881811"
+        },
+        {
+          "file": "src/config.ts",
+          "hash": "18446465297269373682"
+        },
+        {
+          "file": "src/containers/QueryResolver/QueryResolver.tsx",
+          "hash": "14063673794927526362"
+        },
+        {
+          "file": "src/main.tsx",
+          "hash": "14271680116926779039"
+        },
+        {
+          "file": "src/models/CourseOptions/CourseData.ts",
+          "hash": "10083128330566900975"
+        },
+        {
+          "file": "src/models/CourseOptions/CourseOptions.ts",
+          "hash": "9729554404755925900"
+        },
+        {
+          "file": "src/pages/CoursePage/CourseFirstPage.tsx",
+          "hash": "16870433534684135065"
+        },
+        {
+          "file": "src/pages/LessonPage/ExplainOptions.tsx",
+          "hash": "9577431648741970136"
+        },
+        {
+          "file": "src/pages/LessonPage/LessonPage.tsx",
+          "hash": "15039873280789526877"
+        },
+        {
+          "file": "src/pages/LoginPage/LoginPage.tsx",
+          "hash": "5280392734017859005"
+        },
+        {
+          "file": "src/pages/WelcomePage/WelcomePage.tsx",
+          "hash": "13328102354302262701"
+        },
+        {
+          "file": "src/reducers/CourseReducers.ts",
+          "hash": "4703476899381988843"
+        },
+        {
+          "file": "src/reducers/LoginReducers.ts",
+          "hash": "2436968327027605110"
+        },
+        {
+          "file": "src/reducers/index.ts",
+          "hash": "5804784002218327825"
+        },
+        {
+          "file": "src/store.tsx",
+          "hash": "9260026735034001660"
+        },
+        {
+          "file": "src/vite-env.d.ts",
+          "hash": "12946363841406869089"
+        },
+        {
+          "file": "tsconfig.json",
+          "hash": "14032556756270793734"
+        },
+        {
+          "file": "tsconfig.node.json",
+          "hash": "8586866767247417612"
+        },
+        {
+          "file": "vite.config.ts",
+          "hash": "7008402861428644331"
+        }
+      ]
+    }
+  }
+}
