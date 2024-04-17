@@ -7,4 +7,13 @@ This was a side project to explore whether you could create an alternative exper
 The frontend was built on React,and the backend was built on python and google cloud function using microservices architecture.
 
 The workflow was:
-1. User enters TK
+1. User enters the topic they want to learn
+2. User enters their background for customization of course
+3. User enters the purpose of learning to focus the content
+4. User enters the time they have
+
+Output:
+1. User gets personalized course plan according to their background, purpose and time.
+2. User gets learning content according to the course plan.
+3. User can ask queries on the content in the query resolver chatbot.
+4. User can select content to explain or to ask query.
