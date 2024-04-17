@@ -1,8 +1,12 @@
 **Learn with AI**
 
-**Click on image below for Video demo**
 
 [![Learn with AI Demo](https://img.youtube.com/vi/pUGYulie6pI/0.jpg)](https://www.youtube.com/watch?v=pUGYulie6pI)
+
+
+**Click on image above for Video demo**
+
+
 
 This was a side project to explore whether you could create an alternative experience to Coursera, Udemy etc to create a personalized and interactive course content for users in real time using LLMs, rather than have a cookie cutter course material.
 
