@@ -23,3 +23,10 @@ Output:
 2. User gets learning content according to the course plan.
 3. User can ask queries on the content in the query resolver chatbot.
 4. User can select content to explain or to ask query.
+
+
+**Contributors:**
+
+[Ashish Sharma](https://www.linkedin.com/in/ashishsharmaiitd/)
+
+[Vihang Agarwal](https://www.linkedin.com/in/vihangagarwal/)
